@@ -1,4 +1,4 @@
-<div style="display:flex; justify-content:center;width:100%;"> [![MasterHead](https://i.pinimg.com/564x/ac/81/d2/ac81d25f1815526159c3f5f258ca0584.jpg)](https://github.com/Elumion)</div>
+<span style="display:flex; justify-content:center;"> [![MasterHead](https://i.pinimg.com/564x/ac/81/d2/ac81d25f1815526159c3f5f258ca0584.jpg)](https://github.com/Elumion)</span>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elumion&show_icons=true&theme=radical)
 
